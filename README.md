@@ -37,16 +37,16 @@
 <li>GCP ; Terraform ; GKE ;Kubernet - <a href="https://github.com/ezops-br/respeak-dwgcp-infra">Link</a>
 </li>
 
-<li>AWS : Terraform : EKS ; Kubernets : Codepipeline ; S3FS ; Rabbitmq ; Redis - <a href="https://github.com/ezops-br/respeak-ratetracker-infra">Link</a>
+<li>AWS ; Terraform ; EKS ; Kubernets ; Codepipeline ; S3FS ; Rabbitmq ; Redis - <a href="https://github.com/ezops-br/respeak-ratetracker-infra">Link</a>
 </li>
 
 <li>AWS ; Terraform ; EKS ;Kubernets ; CodePipeline - <a href="https://github.com/ezops-br/respeak-bespoke-infra">Link</a>
 </li>
 
-<li>AWS : CloudFormation : ECS : Cloudfront : CodePipeline ; Dev Auto-Created from branch ; VPN integrated with AD ; Server FTP- <a href="https://github.com/ezops-br/carserv-infra">Link</a>
+<li>AWS ; CloudFormation ; ECS ; Cloudfront ; CodePipeline ; Dev Auto-Created from branch ; VPN integrated with AD ; Server FTP- <a href="https://github.com/ezops-br/carserv-infra">Link</a>
 </li>
 
-<li>Azure, AWS : CloudFormation : ECS : Azure Pipeline : graphql - <a href="https://github.com/ezops-br/forecastable-infra">Link</a>
+<li>Azure, AWS ; CloudFormation ; ECS ; Azure Pipeline ; graphql - <a href="https://github.com/ezops-br/forecastable-infra">Link</a>
 </li>
 
 <li>AWS ; CloudFormation ; Code Pipeline ; ECS - <a href="https://github.com/ezops-br/xaqt-infra">Link</a>
