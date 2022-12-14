@@ -5,9 +5,9 @@ Some of the technologies that Ezops has used over the years. All of them are cre
 ## AWS 
 
 
-### CI/CD 
-- ArgoCD/Drone
-- Azure Devops
+### Projects 
+- ArgoCD/Drone - EKS - MongoDB/Postgres - Datadog/Pagerduty - AWS Standart Security - [LINK](https://github.com/orgs/ezops-br/repositories)
+- Azure Devops - ECS - RDS MySql - CloudWatch - [LINK](https://github.com/orgs/ezops-br/repositories)
 - BitbucketPipeline
 - Code Commit
 - Code Pipeline
