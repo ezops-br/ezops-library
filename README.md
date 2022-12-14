@@ -1,55 +1,179 @@
-# Ezops Library
+# Ezops Libary
 
-<h2>Library of itens</h2>
+Some of the technologies that Ezops has used over the years. All of them are created using the best DevOps practices and using the latest IAC features and tools, such as Terraform, Cloudformation, AWS CLI, Azure CLI, and Gcloud CLI, for example
 
-<ul>
-<li> AWS ; Cloudformation ; ECS ; Jenkins ; Monitoring - <a href="https://github.com/ezops-br/amuse_infra">Link</a>
+## AWS 
 
-</li>
 
-<li> AWS ; Terraform ; ECS ; Codepipeline - <a href="https://github.com/ezops-br/my_digital_infra">Link</a>
-</li>
+### CI/CD 
+- ArgoCD/Drone
+- Azure Devops
+- BitbucketPipeline
+- Code Commit
+- Code Pipeline
+- FluxCD
+- Github Actions
+- Jenkins
+- TeamCity
 
-<li> AWS ; Terraform ; EKS , Kubernets ; Code Pipeline ; Prometheus - <a href="https://github.com/ezops-br/nugget-infra">Link</a>
-</li>
+### Orchestration
+- EKS
+- ECS
+- ECS Fargate
+- Beanstalk
+- Droplets
 
-<li> Azure ; Pulumi ; AKS , kubernets ; Azure Devops ; RabbitMQ - <a href="https://github.com/ezops-br/korio_clinical_infra">Link</a>
-</li>
+### Database
+- Aurora MySQL
+- Aurora Postgres
+- Clickhouse
+- DynamoDB
+- ElasticCache
+- Mongo Atlas
+- Mongo Server
+- MongoDB
+- MySQL Server
+- Postgres Server
+- RDS Mysql
+- RDS Postgres
+- SQL Server
 
-<li>Azure (build) , GCP google (deploy) ; Terraform ; GKE , kubernets ; Azure Pipeline - <a href="https://github.com/ezops-br/primework_infra">Link</a>
-</li>
+### Monitoring
+- CloudWatch
+- Datadog
+- Falco
+- Grafana
+- Inspector
+- New Relic
+- Pagerduty
+- Prometheus
 
-<li>AWS ; Terraform ; ECS ; Code Pipeline ; NextJS ; AWS WAF - <a href="https://github.com/ezops-br/georgerogers-Mailtag-Infra">Link</a>
-</li>
+### Security
+- AWS Standart Security
+- Cloudtrail
+- Cognito
+- Firewall
+- SSH Key
+- Sophos
+- VPN
+- WAF
+- VPC Networks
 
-<li>AWS ; Terraform ; ECS (Fargate) ; Github Action/CodePipeline ; API Gateway ; Serverless - <a href="https://github.com/ezops-br/thoughtful-automation-foundry-infra">Link</a>
-</li>
+## Azure
 
-<li>AWS ; Terraform ; ECS ; Github Action ; CodePipeline ; API Gateway ; AWS Batch - <a href="https://github.com/ezops-br/thoughtful-automation-opus-infra">Link</a>
-</li>
+### CI/CD 
+- FluxCD
+- Jenkins
+- Azure Pipelines
 
-<li>AWS ; Terraform ; EKS, Kubernets ; Github Actions ; kafka, Rabbitmq, Mongo - <a href="https://github.com/ezops-br/upbots-infra">Link</a>
-</li>
+### Orchestration
+- AKS
+- Kops
 
-<li>Azure ; Ansible ; AKS, Kubernets ; Jenkins ; Kong ; Jaeger - <a href="https://github.com/ezops-br/vikings-infra">Link</a>
-</li>
+### Database
+- MySQL Server
+- Postgres Server
+- SQL Server
 
-<li>GCP ; Terraform ; GKE ;Kubernet - <a href="https://github.com/ezops-br/respeak-dwgcp-infra">Link</a>
-</li>
+### Monitoring
+- Grafana
+- Prometheus
 
-<li>AWS ; Terraform ; EKS ; Kubernets ; Codepipeline ; S3FS ; Rabbitmq ; Redis - <a href="https://github.com/ezops-br/respeak-ratetracker-infra">Link</a>
-</li>
+### Security
+- Firewall
+- ISO
+- Private Subnets
+- VPC Networks
+- SSH Key
 
-<li>AWS ; Terraform ; EKS ;Kubernets ; CodePipeline - <a href="https://github.com/ezops-br/respeak-bespoke-infra">Link</a>
-</li>
 
-<li>AWS ; CloudFormation ; ECS ; Cloudfront ; CodePipeline ; Dev Auto-Created from branch ; VPN integrated with AD ; Server FTP- <a href="https://github.com/ezops-br/carserv-infra">Link</a>
-</li>
+## GCP
 
-<li>Azure, AWS ; CloudFormation ; ECS ; Azure Pipeline ; graphql - <a href="https://github.com/ezops-br/forecastable-infra">Link</a>
-</li>
+### CI/CD 
+- Azure Pipeline
+- Cloud Deploy
+### Orchestration
+- GKE
+- App Engine
 
-<li>AWS ; CloudFormation ; Code Pipeline ; ECS - <a href="https://github.com/ezops-br/xaqt-infra">Link</a>
-</li>
+### Database
+- MySQL
+- Postagres
 
-</ul>
+### Monitoring
+- Cloud Monitoring
+
+### Security
+- IAM 
+- Encryption
+- Networking
+- SSH Keys
+- Firewalls
+- VPC Networks
+- Core Google Cloud infrastructure
+
+## OCI Oracle
+
+### CI/CD 
+- Devops Project
+### Orchestration
+- OKE (K8S)
+
+### Database
+- SystemDB MySQL
+
+### Monitoring
+- CloudWatch
+
+### Security
+- WAF
+- SG
+- SSH KEY
+- Key Vault
+- Firewalls
+- VPC Networks
+- Oracle Advanced Security
+
+## Digital Ocean
+
+### CI/CD 
+- Bash Script
+### Orchestration
+- Droplets
+
+### Database
+- Postgres by Digital Ocean
+
+### Monitoring
+- Seamless
+
+### Security
+- SSH Keys
+- Firewalls
+- VPC Networks
+
+## OM-PREM
+
+### CI/CD 
+- GitLab Pipeline
+### Orchestration
+- Windows Servers
+- Linux Servers
+- 
+
+### Database
+- MySQL
+- SQL Server
+
+### Monitoring
+- OpsView
+
+### Security
+- SSH Keys
+- Firewalls
+- Sophos
+- VPN
+- Veeam
+
+# LINKS
+- [LIBARY](https://github.com/orgs/ezops-br/repositories)        
